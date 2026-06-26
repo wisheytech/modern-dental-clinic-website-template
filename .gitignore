@@ -1,0 +1,100 @@
+# =====================================
+
+# Modern Dental Clinic Template
+
+# .gitignore
+
+# =====================================
+
+# -----------------------------
+
+# AI / IDE
+
+# -----------------------------
+
+.cursor/
+.jetro/
+agents/
+projects/
+data/
+
+# GitHub (enable later if workflows are added)
+
+.github/
+
+# AI configuration
+
+.mcp.json
+.windsurfrules
+AGENT.md
+CLAUDE.md
+
+# -----------------------------
+
+# Node
+
+# -----------------------------
+
+node_modules/
+dist/
+build/
+
+# -----------------------------
+
+# Environment
+
+# -----------------------------
+
+.env
+.env.*
+!.env.example
+
+# -----------------------------
+
+# Logs
+
+# -----------------------------
+
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# -----------------------------
+
+# Python
+
+# -----------------------------
+
+**pycache**/
+*.pyc
+
+# -----------------------------
+
+# VS Code
+
+# -----------------------------
+
+.vscode/
+
+# -----------------------------
+
+# Operating System
+
+# -----------------------------
+
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# -----------------------------
+
+# Temporary files
+
+# -----------------------------
+
+*.tmp
+*.bak
+*.swp
+*.swo
